@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\TestPing\bin\Debug\TestPing.dll
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\TestPing\bin\Debug\TestPing.pdb
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\TestPing\obj\Debug\TestPing.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\TestPing\obj\Debug\TestPing.dll
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\TestPing\obj\Debug\TestPing.pdb

@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\Exer2Reseau.exe.config
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\Exer2Reseau.exe
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\Exer2Reseau.pdb
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\TestPing.dll
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\TestPing.pdb
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\DecouverteReseau.FormPrincipal.resources
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\DecouverteReseau.Properties.Resources.resources
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.exe
+C:\Users\admin\Desktop\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.pdb
+G:\Younes\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\Exer2Reseau.exe.config
+G:\Younes\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.exe
+G:\Younes\CEGEP 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.pdb
+E:\Younes\CEGEP 2016\Cegep-Hiver 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\bin\Debug\Exer2Reseau.exe.config
+E:\Younes\CEGEP 2016\Cegep-Hiver 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.exe
+E:\Younes\CEGEP 2016\Cegep-Hiver 2016\Reseaux\Remises\2. YounesR_JosianeL.Exer2Reseau\2.Exer2Reseau\Exer2Reseau\obj\Debug\Exer2Reseau.pdb
